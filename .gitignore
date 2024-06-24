@@ -1,0 +1,8 @@
+node_modules
+coverage
+dist
+TODO.txt
+.DS_Store
+.env*
+.eslintcache
+.idea/
